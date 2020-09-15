@@ -1,0 +1,72 @@
+* {
+	margin: 5px;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+p {
+	font-family: fantasy;
+	color: #1a1a1a;
+	padding-bottom: 25px;
+}
+
+h1 {
+	background-color: #00b412;
+	border-radius: 5px;
+	width: 500px;
+	text-align: center;
+}
+
+em {
+	font-weight: bold;
+}
+
+h2 {
+	color: blue;
+}
+
+#alex {
+	color: #3da2b4;
+}
+
+#contact_header {
+	font-size: large;
+}
+
+.list li {
+	color:  #00b412;
+}
+
+.contact li {
+	color:  #283100;
+	list-style-type: circle;
+}
+
+.page {
+	background-color: #f1f1f1;
+}
+
+.pigeon {
+	color:  #00b412;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.horizontal_menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #3da2b4;
+	padding: 10px 0px;
+  }
+
+  .horizontal_menu li {
+	display: inline;
+	padding: 10px;
+	background-color: #318291;
+  }
+
+  .horizontal_menu li a {
+	color: black;
+	font-style: bold;
+	text-decoration: none;
+  }
